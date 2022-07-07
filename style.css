@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.color{
+    background: rgba(0, 0, 0,.1);
+}
+body{
+    background: linear-gradient(to left,rgb(255, 185, 185),rgb(198, 255, 208)) !important;
+}
+
+textarea{
+    background: rgb(216, 237, 250) !important;
+    font-size: 20px !important;
+    font-weight: bolder !important;
+    color: rgb(10, 5, 22) !important;
+    word-spacing: 3px !important;
+    letter-spacing: 2px !important;
+}
+.card{
+    background: rgb(162, 221, 255) !important;
+}
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+}
+a,button{
+    background: red !important;
+}
